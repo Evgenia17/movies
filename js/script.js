@@ -82,7 +82,7 @@ const personalMovieDB = {
         } else if (personalMovieDB.count >= 30) {
             alert ('Вы киноман');
         } else {
-            alert ('Произошла ошибка');
+            alert ('Произошла ошибка!');
         }
     }
 };
